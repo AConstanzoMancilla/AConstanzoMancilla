@@ -7,8 +7,9 @@ I am extremely excited to grow in my professional career in the technological an
 ⬇️
 If you are looking for someone with a passion for design and technology with Full-Stack web skills and an achievement-oriented mentality, do not hesitate to contact me on:
 
-🔗LinkedIn https://www.linkedin.com/in/arantxa-constanzo-mancilla-489864214/
-📩ariconstanzo@gmail.com
+🔗LinkedIn: https://www.linkedin.com/in/arantxa-constanzo-mancilla-489864214/
+
+📩Email: ariconstanzo@gmail.com
 
 <!--
 **AConstanzoMancilla/AConstanzoMancilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
